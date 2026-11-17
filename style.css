@@ -91,7 +91,6 @@ body {
 }
 #pageLoader .loader-text {
     margin-top: 1.4rem; font-size: 0.65rem; letter-spacing: 0.35em;
-    text-transform: uppercase; color: rgba(255,255,255,0.45);
 }
 @keyframes loaderFade { 0% { opacity: 0.5; } 100% { opacity: 1; } }
 @keyframes loaderSlide { 0% { left: -40%; } 100% { left: 100%; } }
