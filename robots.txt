@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ismailoksuz.github.io/ismail-oksuz/sitemap.xml
+Sitemap: https://ismailoksuz.github.io/sitemap.xml
