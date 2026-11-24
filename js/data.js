@@ -51,7 +51,7 @@ const CERTIFICATES = [
 ];
 
 const PROJECTS = [
-    { name:"Yapay Zekâ Destekli Çağrı Merkezi Asistanı", desc:"Çerkezköy Belediyesi için yerel LLM ve STT tabanlı çağrı merkezi asistanı. Bridge360 entegrasyonu ile otomatik talep kaydı.", url:"https://cerkezkoy.bel.tr/proje/yapay-zeka-destekli-cagri-merkezi-asistani", tags:["Yerel LLM","STT","Bridge360"], starred:true },
+    { name:"Çerkezköy Belediyesi Yapay Zeka Destekli Çağrı Merkezi Asistanı", desc:"Çerkezköy Belediyesi Bilgi İşlem Müdürlüğü'nde İsmail Öksüz tarafından geliştirilen, yerel LLM ve STT tabanlı çağrı merkezi asistanı. Bridge360 entegrasyonu ile otomatik talep kaydı.", url:"https://cerkezkoy.bel.tr/proje/yapay-zeka-destekli-cagri-merkezi-asistani", tags:["Yerel LLM","STT","Bridge360"], starred:true },
     { name:"Yapay Zekâ Destekli Dijital Arşiv Programı (Lamatic)", desc:"Çerkezköy Belediyesi için yapay zekâ destekli dijital arşiv programı. OCR, LLM tabanlı semantik arama ve LDAP ile giriş.", url:"https://lamatic.cerkezkoy.bel.tr", tags:["LLM","OCR","LDAP","2FA"], starred:true },
     { name:"CERA", desc:"Yerel DGX Spark sunucusunda çalışan, LLM tabanlı WhatsApp yapay zeka asistanı. Belediye başkanı tarafından aktif kullanılıyor.", url:"", tags:["Yerel LLM","WhatsApp API","DGX Spark"], starred:true },
     { name:"Soft Error Propagation on Graph Applications", desc:"Graf algoritmalarında soft error yayılımı analizi. Marmara Üniversitesi 2023 En İyi Bitirme Projesi Ödülü.", url:"https://cse.eng.marmara.edu.tr/notice/2023-bahar-4-siniflar-veda-toplantisi", tags:["CUDA","NCCL","Graf Algoritmaları"], starred:true },
